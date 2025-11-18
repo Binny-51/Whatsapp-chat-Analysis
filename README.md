@@ -2,7 +2,6 @@
 A streamlit app to analyze your whatsapp chats
 
 # 📊 WhatsApp Chat Analysis  
-
 https://whatsapp-chat-analysis-d8pb36r3s6d292b9ewkjug.streamlit.app/
 
 ## 📌 Overview  
