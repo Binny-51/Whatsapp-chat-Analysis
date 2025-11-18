@@ -3,7 +3,7 @@ A streamlit app to analyze your whatsapp chats
 
 # 📊 WhatsApp Chat Analysis  
 
-https://whatsapp-chat-analysis-d8pb36r3s6d292b9ewkjug.streamlit.app/#2550
+https://whatsapp-chat-analysis-d8pb36r3s6d292b9ewkjug.streamlit.app/
 
 ## 📌 Overview  
 This project focuses on analyzing WhatsApp chat data to extract **insights, patterns, and trends** from conversations.  
